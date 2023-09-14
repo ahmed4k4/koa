@@ -1,299 +1,82 @@
-@media screen and (max-width:450px){
-    body{
-        background-color: rgb(5, 5, 87);
-    }
-    #nafbar{
-        background-color: white;
-        width: 100%;
-        height: 85px;
-    }
-    #main1{
-        background-color: white;
-        margin-top: 65px;
-        margin-left: 1%;
-        width: 98%;
-        height: 470px;
-    }
-    #main1 a #btnphon{
-        width: 95%;
-        height: 45px;
-        background-color: black;
-        border-radius: 3px;
-        margin-top: 6%;
-        color: white;
-        cursor: pointer;
-        font-size: xx-large;
-    }
-    #main1 a #btnphon:hover{
-        background-color: brown;
-    }
-    #main1 #p1{
-        margin-right: 5%;
-        margin-top: 0.5%;
-        margin-bottom: 0%;
-        font-size: large;
-    }
-    #main1 #p2{
-        float: right;
-        margin-right: 15%;
-        margin-top: 0.5%;
-        margin-bottom: 0%;
-        font-size: large;
-    }
-    #main2{
-        background-color: white;
-        margin-top: 65px;
-        margin-left: 1%;
-        width: 98%;
-        height: 1600px;
-    }
-    #main2 h2{
-        font-size: xxx-large;
-    }
-    #main2 #p3{
-        font-size: x-large;
-    }
-    #main2 #im{
-        float: right;
-        margin-left: 5%;
-        margin-bottom: 1px;
-        margin-top: 3px;
-    }
-    #main2 #h22{
-        margin-top: 200px;
-    }
-    #main2 #main2_p{
-        margin: 5%;
-    }
-    #main2 #main2_p p{
-        font-size: larger;
-    }    
+body{
+    background-color: rgb(5, 5, 87);
 }
-@media screen and (min-width:451px) and (max-width:800px){
-    body{
-        background-color: rgb(5, 5, 87);
-    }
-    #nafbar{
-        background-color: white;
-        width: 100%;
-        height: 85px;
-    }
-    #main1{
-        background-color: white;
-        margin-top: 65px;
-        margin-left: 1%;
-        width: 98%;
-        height: 470px;
-    }
-    #main1 a #btnphon{
-        width: 95%;
-        height: 45px;
-        background-color: black;
-        border-radius: 3px;
-        margin-top: 1%;
-        color: white;
-        cursor: pointer;
-        font-size: xx-large;
-    }
-    #main1 a #btnphon:hover{
-        background-color: brown;
-    }
-    #main1 #p1{
-        margin-right: 5%;
-        margin-top: 0.5%;
-        margin-bottom: 0%;
-        font-size: large;
-    }
-    #main1 #p2{
-        float: right;
-        margin-right: 15%;
-        margin-top: 0.5%;
-        margin-bottom: 0%;
-        font-size: large;
-    }
-    #main2{
-        background-color: white;
-        margin-top: 65px;
-        margin-left: 1%;
-        width: 98%;
-        height: 2300px;
-    }
-    #main2 h2{
-        font-size: xxx-large;
-    }
-    #main2 #p3{
-        font-size: x-large;
-    }
-    #main2 #im{
-        float: right;
-        margin-left: 5%;
-        margin-bottom: 1px;
-        margin-top: 3px;
-    }
-    #main2 #h22{
-        margin-top: 200px;
-    }
-    #main2 #main2_p{
-        margin: 5%;
-    }
-    #main2 #main2_p p{
-        font-size: larger;
-    }    
+#nafbar{
+    background-color: white;
+    width: 100%;
 }
-@media screen and (min-width:801px) and (max-width:1080px){
-    body{
-        background-color: rgb(5, 5, 87);
-    }
-    #nafbar{
-        background-color: white;
-        width: 100%;
-        height: 85px;
-    }
-    #main1{
-        background-color: white;
-        margin-top: 65px;
-        margin-left: 1%;
-        width: 98%;
-        height: 470px;
-    }
-    #main1 a #btnphon{
-        width: 95%;
-        height: 45px;
-        background-color: black;
-        border-radius: 3px;
-        margin-top: 1%;
-        color: white;
-        cursor: pointer;
-        font-size: xx-large;
-    }
-    #main1 a #btnphon:hover{
-        background-color: brown;
-    }
-    #main1 #p1{
-        margin-right: 5%;
-        margin-top: 0.5%;
-        margin-bottom: 0%;
-        font-size: large;
-    }
-    #main1 #p2{
-        float: right;
-        margin-right: 15%;
-        margin-top: 0.5%;
-        margin-bottom: 0%;
-        font-size: large;
-    }
-    #main2{
-        background-color: white;
-        margin-top: 65px;
-        margin-left: 1%;
-        width: 98%;
-        height: 2400px;
-    }
-    #main2 h2{
-        font-size: xxx-large;
-    }
-    #main2 #p3{
-        font-size: x-large;
-    }
-    #main2 #im{
-        float: right;
-        margin-left: 5%;
-        margin-bottom: 1px;
-        margin-top: 3px;
-    }
-    #main2 #h22{
-        margin-top: 200px;
-    }
-    #main2 #main2_p{
-        margin: 5%;
-    }
-    #main2 #main2_p p{
-        font-size: larger;
-    }    
+#main1{
+    background-color: white;
+    margin-top: 65px;
+    margin-left: 1%;
+    width: 98%;
+    padding-bottom: 2%;
 }
-@media screen and (min-width:1081px){
-    body{
-        background-color: rgb(5, 5, 87);
-    }
-    #nafbar{
-        background-color: white;
-        width: 100%;
-        height: 85px;
-    }
-    #main1{
-        background-color: white;
-        margin-top: 65px;
-        margin-left: 1%;
-        width: 98%;
-        height: 500px;
-    }
-    #main1 a #btnphon{
-        width: 95%;
-        height: 45px;
-        background-color: black;
-        border-radius: 3px;
-        margin-top: 1%;
-        color: white;
-        cursor: pointer;
-        font-size: xx-large;
-    }
-    #main1 a #btnphon:hover{
-        background-color: brown;
-    }
-    #main1 #p1{
-        margin-right: 5%;
-        margin-top: 0.5%;
-        margin-bottom: 0%;
-        font-size: large;
-    }
-    #main1 #p2{
-        float: right;
-        margin-right: 15%;
-        margin-top: 0.5%;
-        margin-bottom: 0%;
-        font-size: large;
-    }
-    #main2{
-        background-color: white;
-        margin-top: 65px;
-        margin-left: 1%;
-        width: 98%;
-        height: 3400px;
-    }
-    #main2 h2{
-        font-size: xxx-large;
-    }
-    #main2 #p3{
-        font-size: x-large;
-    }
-    #main2 #im{
-        float: right;
-        margin-left: 5%;
-        margin-bottom: 1px;
-        margin-top: 3px;
-    }
-    #main2 #h22{
-        margin-top: 200px;
-    }
-    #main2 #main2_p{
-        margin: 5%;
-    }
-    #main2 #main2_p p{
-        font-size: larger;
-    }    
+#main1 a #btnphon{
+    width: 95%;
+    height: 45px;
+    background-color: black;
+    border-radius: 3px;
+    margin-top: 1%;
+    color: white;
+    cursor: pointer;
+    font-size: x-large;
 }
-#wat img{
-    position: fixed;
-    width: 6%;
-    border-radius: 45px;
-    margin-top: 65%;
+#main1 a #btnphon:hover{
+    background-color: brown;
+}
+#main1 #p1{
+    margin-right: 5%;
+    margin-top: 0.5%;
+    margin-bottom: 0%;
+    font-size: large;
+}
+#main1 #p2{
+    float: right;
+    margin-right: 15%;
+    margin-top: 0.5%;
+    margin-bottom: 0%;
+    font-size: large;
+}
+#main2{
+    background-color: white;
+    margin-top: 65px;
+    margin-left: 1%;
+    width: 98%;
+}
+#main2 h2{
+    font-size: xxx-large;
+}
+#main2 #p3{
+    font-size: x-large;
+}
+#main2 #im{
+    float: right;
     margin-left: 5%;
+    margin-bottom: 1px;
+    margin-top: 3px;
 }
-#pho img{
+#main2 #h22{
+    margin-top: 200px;
+}
+#main2 #main2_p{
+    margin: 5%;
+}
+#main2 #main2_p p{
+    font-size: larger;
+}    
+#wat img {
     position: fixed;
-    margin-left: 25%;
-    width: 6%;
-    border-radius: 45px;
-    margin-top: 65%;
-    margin-left: 86%;
+    width: 15%;
+    border-radius: 45%;
+    bottom: 5%;
+    left: 7%;
+}
+
+#pho img {
+    position: fixed;
+    width: 15%;
+    border-radius: 45%;
+    right: 7%;
+    bottom: 5%;
 }
